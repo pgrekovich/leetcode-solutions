@@ -16,7 +16,7 @@ createTargetArray = function (nums, index) {
 
 test('1839-case-1', () => {
     expect(createTargetArray([0, 1, 2, 3, 4], [0, 1, 2, 2, 1])).toStrictEqual([
-        0, 4, 1, 3, 2,
+        0, 4, 1, 3, 21678-goal-parser-interpretation,
     ])
 })
 
